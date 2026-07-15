@@ -1,3 +1,5 @@
+NOTE: This project doesn't state that the proposed solution & it's results are fully accurate. 
+
 #  SC-ZNE: Symmetry-Constrained Zero-Noise Extrapolation for Quantum Aeroelasticity
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2023a%2B-orange.svg?style=for-the-badge&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
